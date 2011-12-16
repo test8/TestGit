@@ -22,14 +22,14 @@
 		4667C169149AECB9005B5F14 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4667C16B149AECB9005B5F14 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4667C16D149AECB9005B5F14 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4667C171149AECB9005B5F14 /* TestGit-Info.plist */ = {isa = PBXFileReference; path = "TestGit-Info.plist"; sourceTree = "<group>"; };
+		4667C171149AECB9005B5F14 /* TestGit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGit-Info.plist"; sourceTree = "<group>"; };
 		4667C173149AECB9005B5F14 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4667C175149AECB9005B5F14 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4667C177149AECB9005B5F14 /* TestGit-Prefix.pch */ = {isa = PBXFileReference; path = "TestGit-Prefix.pch"; sourceTree = "<group>"; };
-		4667C178149AECB9005B5F14 /* TGAppDelegate.h */ = {isa = PBXFileReference; path = TGAppDelegate.h; sourceTree = "<group>"; };
+		4667C177149AECB9005B5F14 /* TestGit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGit-Prefix.pch"; sourceTree = "<group>"; };
+		4667C178149AECB9005B5F14 /* TGAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TGAppDelegate.h; sourceTree = "<group>"; };
 		4667C179149AECB9005B5F14 /* TGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TGAppDelegate.m; sourceTree = "<group>"; };
 		4667C17C149AECB9005B5F14 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		4667C17E149AECB9005B5F14 /* TGViewController.h */ = {isa = PBXFileReference; path = TGViewController.h; sourceTree = "<group>"; };
+		4667C17E149AECB9005B5F14 /* TGViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TGViewController.h; sourceTree = "<group>"; };
 		4667C17F149AECB9005B5F14 /* TGViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TGViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
